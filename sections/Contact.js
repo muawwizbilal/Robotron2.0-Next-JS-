@@ -70,14 +70,10 @@ const Contact = () => {
                 </div>
                 <div className='box'>
                   <FiHelpCircle size={30} className='icons' />
-                  <h3>info@dream-theme.com</h3>
-                  <span>Drop us a line anytime!</span>
+               <h3>robotron@thelabschool.pk</h3>
+                  <span>Email us for any kind of help.</span>
                 </div>
-                <div className='box'>
-                  <BiUserCircle size={30} className='icons' />
-                  <h3>hr@dream-theme.com</h3>
-                  <span>Career at Seven Creative</span>
-                </div>
+               
               </div>
               <ul>
                 <li className='icon'>
