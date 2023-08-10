@@ -19,9 +19,7 @@ const Categories = () => {
               <Card data={item} key={item.id} caption={item.post} />
             ))}
           </div>
-          <div className='py btn'>
-            <button className='secondary-button'>View More</button>
-          </div>
+         
         </div>
       </section>
     </>
